@@ -1,0 +1,6 @@
+06.06.2008
+
+Requirement:
+Tool to automatically give you the next /30 or /32 from a pool of subnets. (maybe /31)
+Used for allocating loopback and peering ip addresses.
+No more text or excels docs

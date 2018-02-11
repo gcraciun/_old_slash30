@@ -1,0 +1,21 @@
+A:link {font-family: helvetica; font-weight: bold; text-decoration: none;
+font-size: 9pt; color: black;}
+A:visited {font-family: helvetica; font-weight: bold; text-decoration: none;
+font-size: 9pt; color: black;}
+A:hover {color: #ffff00;}
+TD {font-family: helvetica; font-weight: bold; text-decoration: none;
+font-size: 9pt; color: black;}
+
+table 
+{
+border-spacing: 10px
+#empty-cells: hide
+} 
+
+td
+{
+background: #e4e4e4;
+text-align: center;
+font-size: 10pt;
+color: #008080;
+}
